@@ -1,0 +1,17 @@
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Infrastructure.deps.json
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Infrastructure.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Infrastructure.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Application.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Domain.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Application.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\bin\Debug\net8.0\resturant.Domain.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturan.D6D25CFF.Up2Date
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\refint\resturant.Infrastructure.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\resturant.Infrastructure.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Infrastructure\obj\Debug\net8.0\ref\resturant.Infrastructure.dll

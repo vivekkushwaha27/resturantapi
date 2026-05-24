@@ -1,0 +1,15 @@
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\bin\Debug\net8.0\resturant.Application.deps.json
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\bin\Debug\net8.0\resturant.Application.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\bin\Debug\net8.0\resturant.Application.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\bin\Debug\net8.0\resturant.Domain.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\bin\Debug\net8.0\resturant.Domain.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturan.527AD571.Up2Date
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\refint\resturant.Application.dll
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\resturant.Application.pdb
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.Application\obj\Debug\net8.0\ref\resturant.Application.dll

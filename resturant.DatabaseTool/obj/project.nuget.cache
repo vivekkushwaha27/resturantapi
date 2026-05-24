@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQG3PCA+Jfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abhishek\\Desktop\\Enterprise\\resturant.api\\resturant.DatabaseTool\\resturant.DatabaseTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhishek\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Abhishek\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Abhishek\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

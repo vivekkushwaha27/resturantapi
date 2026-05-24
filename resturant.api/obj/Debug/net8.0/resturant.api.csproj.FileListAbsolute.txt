@@ -1,0 +1,9 @@
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhishek\Desktop\Enterprise\resturant.api\resturant.api\obj\Debug\net8.0\resturant.api.sourcelink.json
